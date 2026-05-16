@@ -1,0 +1,32 @@
+#fondo
+body{
+    background-image: url(fondo.jpg) ;fondo
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    margin:100%
+}
+
+
+
+h1{
+color: white;
+text-align: center;
+font-size: 3rem;
+}
+
+
+
+.venta{
+    width: 200px;
+margin-left: 50px;
+
+}
+
+.venta figcaption{
+color: aliceblue;
+text-align: center;
+font-size: 20px ;
+}
